@@ -5,7 +5,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  a { color: #300000; text-decoration: none; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; }
  a:hover { color: #333333; }
  a img, a:hover img { border: none; }
- hr { width="75%" color="#006aff" size="4" }
+ hr:blue { width="75%" color="#006aff" size="4" }
  h2 { margin-bottom: 15px; color: #000000; font-family: 'Quattrocento', serif; font-size: 24px; font-weight: 700; line-height: 1.2em; }
  div.paragraph, div.paragraph { margin-bottom: 10px; line-height: 1.5em; }
  p, div.paragraph { margin-bottom: 10px; line-height: 1.5em; }

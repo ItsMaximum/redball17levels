@@ -14,6 +14,8 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  input[type="text"]:focus, input[type="email"]:focus, textarea:focus { border: 1px solid #777777; }
  textarea { resize: none; }
  select { -webkit-appearance: none; -moz-appearance: none; appearance: none; text-indent: 0.01px; text-overflow: ''; }
+ .post-img-box{border:1px solid #eaeaea;border-radius:4px;padding:4px}
+ .post-img-box:hover{border:1px solid #7fc243}
  .wsite-form-field input[type="radio"], .wsite-form-field input[type="checkbox"], .wsite-com-product-option-groups input[type="radio"], .wsite-com-product-option-groups input[type="checkbox"] { width: 16px; height: 16px; border: 1px solid #444444 !important; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-appearance: none; -moz-appearance: none; appearance: none; text-shadow: none; }
  .wsite-form-field input[type="radio"], .wsite-com-product-option-groups input[type="radio"] { border-radius: 8px; }
  .wsite-form-field input[type="checkbox"], .wsite-com-product-option-groups input[type="checkbox"] { background-color: #ffffff; border-radius: 0; }

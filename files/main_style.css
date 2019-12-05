@@ -31,6 +31,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .wsite-form-field input[type="checkbox"]:after, .wsite-com-product-option-groups input[type="checkbox"]:after { position: relative; top: 1px; left: 4px; width: 3px; height: 6px; border: solid #444444; border-width: 0 2px 2px 0; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); }
  .wsite-form-field input[type="checkbox"]:checked:after, .wsite-com-product-option-groups input[type="checkbox"]:checked:after { display: block; content: " "; }
  .container { overflow: hidden; width: 100%; max-width: 960px; margin: 0 auto; }
+ .container2 { overflow: hidden; width: 100%; max-width: 1200px; margin: 0 auto; }
  body.affix .cento-header .nav-wrap { position: fixed; top: 0; z-index: 15; border-bottom: 2px solid #f7f7f7; }
  #icontent .container { overflow: visible; }
  .cento-header { position: relative; z-index: 9; width: 100%; background: #ffffff; padding: 20px 0 0; box-sizing: border-box; }
